@@ -6,7 +6,7 @@ hasCJKLanguage = true
 languageCode = "en"
 rssLimit = 10
 theme = "hugo-texify3"
-title = "TeXify3"
+title = "Gabriel's Ramblings"
 
 [pagination]
 pagerSize = 5
@@ -16,9 +16,9 @@ tags = "tags"
 categories = "categories"
 
 [params]
-title="TeXify3"
-author = "Michael Neuper"
-description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
+title="Gabriel's Ramblings"
+author = "Gabriel Schreiner"
+description = "My compilation of good reads, commentaries, code and random stuff."
 footnote = """
 Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
 Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
@@ -58,7 +58,7 @@ numberedSubtitles = true
   <script async data-name="BMC-Widget" 
         data-cfasync="true" 
         src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" 
-        data-id="michaelneuper" 
+        data-id="gsbc" 
         data-description="Like what I do? Buy me a coffee!" 
         data-message="" 
         data-color="#d79921" 
